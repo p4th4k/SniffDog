@@ -40,7 +40,7 @@ cd SniffDog
 Run SniffDog with optional commands:
 
 ```bash
-python main.py [--keep-alive] [--write-log]
+python3 main.py [--keep-alive] [--write-log]
 ```
 
 ## Examples
